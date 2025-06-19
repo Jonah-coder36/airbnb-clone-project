@@ -35,10 +35,14 @@ Identifying the design properties of a mock-up design is essential in ensuring a
 It’s a foundational step that bridges creativity with execution, ensuring the final product is both beautiful and functional.
 # Project Roles and Responsibilities
 1. Project Manager: is the strategic leader who connects the technical and business sides of a software project. They ensure that the right product is built the right way, by the right people, at the right time.
-2. Frontend Developers:
-3. Backend Developers:
-4. Designers:
-5. QA/Testers
-6. DevOps Engineers
-7. Product Owner
-8. Scrum Master
+- Project Manager oversees timeline, coordinates team, manages deliverables.
+- They align goals, people, timelines, and quality, allowing the team to focus on execution while ensuring the project delivers maximum value.
+3. Frontend Developers: are responsible for building the user-facing part of a software application.
+- Frontend Developers implement UI components, ensure responsive design.
+- Frontend Developers shape the user experience and ensure that the product is usable, accessible, and visually appealing.  
+4. Backend Developers:
+5. Designers:
+6. QA/Testers
+7. DevOps Engineers
+8. Product Owner
+9. Scrum Master
