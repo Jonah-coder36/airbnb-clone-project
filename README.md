@@ -1,6 +1,6 @@
 # airbnb-clone-project
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
-# UI/UX Design Planning.
+# UI/UX Design Planning
 ## Design Goals
 - Create intuitive booking flow
 - Maintain visual consistency
@@ -11,6 +11,10 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Detailed property viewing
 - Secure checkout process
 - User authentication
-Property Listing View: Grid display of available properties with filters.
-Listing Detailed View: Complete property details with images and a booking form.
-Simple Checkout View: Streamlines payment and booking confirmation
+## Primary Pages
+
+|Page|Description|
+|----|-----------|
+|Property Listing View|Grid display of available properties with filters|
+|Listing Detailed View|Complete property details with images and a booking form|
+|Simple Checkout View|Streamlines payment and booking confirmation|
