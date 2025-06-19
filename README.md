@@ -44,8 +44,8 @@ It’s a foundational step that bridges creativity with execution, ensuring the 
 - They build APIs, manage the database, and implement business logic.
 - They enable functionality, ensure security, and support growth.
 5. Designers: focus on how the product looks, feels, and works from the user’s point of view.
--  They create mockups, maintain the design system, and ensure UX quality.
--  They ensure the product is not only visually appealing but also intuitive, accessible, and aligned with user needs.
+- They create mockups, maintain the design system, and ensure UX quality.
+- They ensure the product is not only visually appealing but also intuitive, accessible, and aligned with user needs.
 6. QA/Testers: ensure that software products are reliable, functional, user-friendly, and bug-free before reaching users.
 - They write test cases, perform testing, and report bugs.
 - They are crucial gatekeepers of quality in software development.
