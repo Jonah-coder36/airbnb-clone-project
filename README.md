@@ -61,5 +61,5 @@ It’s a foundational step that bridges creativity with execution, ensuring the 
 # UI Component Patterns
 ## Planned Components
 1. Navbar: is a user interface element typically found at the top or side of a website or application. 
-2. Property Card: is a visual UI component used in websites or applications, especially in real estate, travel booking, or e-commerce platforms
+2. Property Card: is a visual UI component used in websites or applications, especially in real estate, travel booking, or e-commerce platforms.
 3. Footer: is the section located at the bottom of a website or application page. It serves as a consistent area where users can find important information, links, and resources, no matter which page they are on.
