@@ -60,18 +60,6 @@ It’s a foundational step that bridges creativity with execution, ensuring the 
 - They make the team stronger, more focused, and better aligned with Agile values.
 # UI Component Patterns
 ## Planned Components
-1. Navbar
-- Logo
-- Search bar
-- User navigation
-- Responsive menu
-3. Property Card
-- Property image
-- Basic details (price, location, rating)
-- Favorite button
-- Responsive layout 
-4. Footer
-- Site links
-- Company information
-- Social media links
-- Copyright information
+1. Navbar: is a user interface element typically found at the top or side of a website or application. 
+2. Property Card: is a visual UI component used in websites or applications, especially in real estate, travel booking, or e-commerce platforms
+3. Footer: is the section located at the bottom of a website or application page. It serves as a consistent area where users can find important information, links, and resources, no matter which page they are on.
